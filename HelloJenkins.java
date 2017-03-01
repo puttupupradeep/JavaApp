@@ -1,4 +1,3 @@
-package prp.oops;
 
 public class HelloJenkins {
 	
